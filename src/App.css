@@ -3,14 +3,14 @@
 }
 #input{
   width:40vw;
-  height:30px;
+  height:35px;
   margin-bottom: 2vh;
   border:1px  solid #000000;
   border-radius: 4px;
 } 
 #submit{
   width:36vw;
-  height:5vh;
+  height:40px;
 }
 #flex-buttons,.flex-container{
   display:flex;
