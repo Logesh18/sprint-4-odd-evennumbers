@@ -1,5 +1,5 @@
 #container{
-  padding:7vw;
+  padding:3vw;
 }
 #input{
   width:40vw;
@@ -10,6 +10,7 @@
 } 
 #submit{
   width:36vw;
+  height:5vh;
 }
 #flex-buttons,.flex-container{
   display:flex;
@@ -41,6 +42,9 @@
   font-size: 13px;
   color:rgb(0, 0, 0);
   padding: 8px 14px 8px 14px;
+}
+#heading,#result-heading{
+   font-size:7vh;
 }
 #result-heading{
    padding-top:5vh;
