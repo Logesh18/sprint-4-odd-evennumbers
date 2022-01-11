@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sprint-4-odd-evennumbers/static/css/main.9b710172.css",
+    "main.css": "/sprint-4-odd-evennumbers/static/css/main.10a76d0d.css",
     "main.js": "/sprint-4-odd-evennumbers/static/js/main.ebc3ec41.js",
     "static/js/787.2e7e89fb.chunk.js": "/sprint-4-odd-evennumbers/static/js/787.2e7e89fb.chunk.js",
     "index.html": "/sprint-4-odd-evennumbers/index.html",
-    "main.9b710172.css.map": "/sprint-4-odd-evennumbers/static/css/main.9b710172.css.map",
+    "main.10a76d0d.css.map": "/sprint-4-odd-evennumbers/static/css/main.10a76d0d.css.map",
     "main.ebc3ec41.js.map": "/sprint-4-odd-evennumbers/static/js/main.ebc3ec41.js.map",
     "787.2e7e89fb.chunk.js.map": "/sprint-4-odd-evennumbers/static/js/787.2e7e89fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b710172.css",
+    "static/css/main.10a76d0d.css",
     "static/js/main.ebc3ec41.js"
   ]
 }
