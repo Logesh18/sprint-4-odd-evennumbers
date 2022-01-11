@@ -24,9 +24,14 @@ class Numbers extends react.Component{
   handleSubmit(event){
     document.getElementById("submit").style.border = "3px  solid #000000";
     if( document.getElementById('input').value.length!==0){
-      document.getElementById('input').value='';
-      this.generateList();
-      event.preventDefault();
+      if( isNaN(document.getElementById('input').value)===false){
+        document.getElementById('input').value='';
+        this.generateList();
+        event.preventDefault();
+      }
+      else{
+        alert('Input must be a number');
+      }
     }
     else{
       alert('Please provide input');
